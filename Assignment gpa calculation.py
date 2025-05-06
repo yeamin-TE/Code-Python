@@ -12,6 +12,8 @@ elif finalscore >=70:
     grade = "C"
 elif finalscore >=60:
     grade = "D"
+elif finalscore >=50:
+    grade = "E"
 else:
     grade = "Failed"
 
