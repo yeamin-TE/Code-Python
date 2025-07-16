@@ -9,4 +9,4 @@ arr2 = np.array([[1,2],[3,4]])
 print("2d array \n",arr2)
 
 arr3 = np.array([[1,2],[3,4],[5,6]])
-print("3d array \n", arr3)
+print("3d array ",arr3)
